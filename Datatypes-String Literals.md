@@ -14,6 +14,6 @@ men_stepped_on_the_moon=input()
 print(men_stepped_on_the_moon)
 ```
 ## Output
-
+![alt text](<Screenshot 2026-03-26 164313.png>) 
 ## Result
 Thus,the Python program to read a string from the user and then print it is created successfully.
