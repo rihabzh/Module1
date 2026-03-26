@@ -20,6 +20,6 @@ else:
     print("ODD")
 ```
 ## Output
-
+![alt text](<Screenshot 2026-03-26 164002.png>) 
 ## Result
 Thus,the Python program to check whether the given number is even or odd using if...else statements is created successfully.
