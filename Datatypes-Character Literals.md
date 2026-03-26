@@ -16,5 +16,7 @@ print(b)
 ```
 ## Output
 
+![alt text](<Screenshot 2026-03-26 164110.png>)  
+
 ## Result
 Thus,the Python program that prints the characters 'T' and 'a' using character literals is created successfully.
